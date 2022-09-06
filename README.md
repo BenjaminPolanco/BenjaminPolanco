@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @BenjaminPolanco
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning Python , and front end.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me https://www.linkedin.com/in/benjaminpolanco/ 
 
 <!---
 BenjaminPolanco/BenjaminPolanco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
